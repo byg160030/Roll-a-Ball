@@ -154,3 +154,63 @@ System memory in use after: 70.4 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1863.
 Total: 2.139900 ms (FindLiveObjects: 0.374400 ms CreateObjectMapping: 0.105600 ms MarkObjects: 1.592600 ms  DeleteObjects: 0.065300 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 3256.390224 seconds.
+  path: Assets/Materials/Background.mat
+  artifactKey: Guid(806a7dd1234314e468d3f8e1e52dc4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Background.mat using Guid(806a7dd1234314e468d3f8e1e52dc4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4b22b75d88ac3d4b4c98573c6998c0') in 1.269759 seconds
+  Import took 2.049098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.435466 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(bd1096927971e2842955739d473822ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(bd1096927971e2842955739d473822ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd4a6249e7f245888d55d51461ae47d') in 0.013090 seconds
+  Import took 0.016587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.111117 seconds.
+  path: Assets/Materials/Walls.mat
+  artifactKey: Guid(fbcfd8d26de04fb42b9a711da0e0d39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls.mat using Guid(fbcfd8d26de04fb42b9a711da0e0d39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b463a0aba10c2795ec4fb731febfca4') in 0.041760 seconds
+  Import took 0.048099 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001087 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1408 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.6 MB.
+System memory in use after: 73.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1906.
+Total: 2.088700 ms (FindLiveObjects: 0.189300 ms CreateObjectMapping: 0.058800 ms MarkObjects: 1.774500 ms  DeleteObjects: 0.063800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 381.311800 seconds.
+  path: Assets/Materials/Walls.mat
+  artifactKey: Guid(fbcfd8d26de04fb42b9a711da0e0d39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls.mat using Guid(fbcfd8d26de04fb42b9a711da0e0d39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb70c8cdac143635802b8221e70993d') in 0.121395 seconds
+  Import took 0.125367 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
